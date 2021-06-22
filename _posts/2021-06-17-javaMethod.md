@@ -2,8 +2,8 @@
 title: 메소드(Method) 파악하기
 author: Kim
 date: 2021-06-17 13:52:00 +0900
-categories: [java]
-tags: [java]
+categories : [Java]
+tags: [Java]
 ---
 
 ## 메소드

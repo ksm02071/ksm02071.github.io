@@ -2,8 +2,8 @@
 title: 클래스(Class) 파악하기
 author: Kim
 date: 2021-06-16 18:35:00 +0900
-categories: [java]
-tags: [java]
+categories : [Java]
+tags: [Java]
 ---
 
 ## 클래스

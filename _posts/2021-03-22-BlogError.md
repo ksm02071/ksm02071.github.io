@@ -2,8 +2,8 @@
 title: 블로그 에러 - (1) bundle 문제
 author: Kim
 date: 2021-03-22 16:13 +0900   # 2019-08-20 19:34:00 0900
-categories : ["Error", ""]
-tags: [null,null]
+categories : [BlogError]
+tags: [BlogError]
 comments : true
 ---
 

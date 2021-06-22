@@ -2,8 +2,8 @@
 title: Object 클래스
 author: Kim
 date: 2021-06-19 15:09:00 +0900
-categories: [java]
-tags: [java]
+categories : [Java]
+tags: [Java]
 ---
 
 ## Object

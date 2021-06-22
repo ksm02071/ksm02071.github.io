@@ -2,7 +2,7 @@
 title: Java 01 - 자바 프로그래밍 기초(3) 변수와 자료형 내용추가
 author: Kim
 date: 2021-03-02 09:30 +0900   # 2019-08-20 19:34:00 0900
-categories : ["Java", "Algorithms"]
+categories : [Java]
 tags: [Java]
 comments : true
 ---

@@ -2,8 +2,8 @@
 title: 예외처리 
 author: Kim
 date: 2021-06-17 16:42:00 +0900
-categories: [java]
-tags: [java]
+categories : [Java]
+tags: [Java]
 ---
 
 # Exception
